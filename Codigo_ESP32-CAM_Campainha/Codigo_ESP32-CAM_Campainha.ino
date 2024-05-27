@@ -13,7 +13,7 @@ const char* ssid = "AndroidAPJ";  //WiFi Name
 const char* password = "ninja2131";  //WiFi Password
 
 String chatId = "6022577479";
-String BOTtoken = "5628613764:AAGWBZUSsh_VGIT54twWJeUXyBNm3SCWe14";
+String BOTtoken = "Digite o token";
 
 bool sendPhoto = false;
 
