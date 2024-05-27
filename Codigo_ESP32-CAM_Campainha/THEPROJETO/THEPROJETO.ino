@@ -22,14 +22,14 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "Pawana";  //WiFi Name
-const char* password = "felipe98";  //WiFi Password
+const char* ssid = "P";  //WiFi Name
+const char* password = "f";  //WiFi Password
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // You need to click "start" on a bot before it can message you 
 // Initialize Telegram BOT
 String chatId = "6022577479";
-String BOTtoken = "5628613764:AAGWBZUSsh_VGIT54twWJeUXyBNm3SCWe14";
+String BOTtoken = "Token";
 
 bool sendPhoto = false;
 
